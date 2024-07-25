@@ -1,0 +1,6 @@
+D:\code\ownlearn\Unity\Unity study\ILRuntime_Teach\Assets\Samples\ILRuntime\2.1.0\Demo\HotFix_Project~\obj\Release\HotFix_Project.csproj.AssemblyReference.cache
+D:\code\ownlearn\Unity\Unity study\ILRuntime_Teach\Assets\Samples\ILRuntime\2.1.0\Demo\HotFix_Project~\obj\Release\HotFix_Project.csproj.CoreCompileInputs.cache
+D:\code\ownlearn\Unity\Unity study\ILRuntime_Teach\Assets\StreamingAssets\HotFix_Project.dll
+D:\code\ownlearn\Unity\Unity study\ILRuntime_Teach\Assets\StreamingAssets\HotFix_Project.pdb
+D:\code\ownlearn\Unity\Unity study\ILRuntime_Teach\Assets\Samples\ILRuntime\2.1.0\Demo\HotFix_Project~\obj\Release\HotFix_Project.dll
+D:\code\ownlearn\Unity\Unity study\ILRuntime_Teach\Assets\Samples\ILRuntime\2.1.0\Demo\HotFix_Project~\obj\Release\HotFix_Project.pdb
